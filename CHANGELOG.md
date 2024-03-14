@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## v0.0.3 - 2024-03-14
+
 - Test multiple submodule levels
 
 ## v0.0.2 - 2024-03-14
