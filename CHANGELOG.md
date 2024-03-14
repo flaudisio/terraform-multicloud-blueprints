@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## v0.0.2 - 2024-03-14
+
 - Update structure
 
 ## v0.0.1 - 2024-03-14
