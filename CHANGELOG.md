@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Use provider as first nested level
+
 ## v0.0.3 - 2024-03-14
 
 - Test multiple submodule levels
